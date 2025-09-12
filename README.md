@@ -1,0 +1,6 @@
+-Install zsh and change it to be the default shell
+-Install kitty
+-Install fonts
+-Install oh-my-zsh from the github repo
+-Install powerlevel10k from github
+-Install zsh-autosuggestions and zsh-syntax-highlighting from AUR
