@@ -7,3 +7,6 @@
 -Install nvim and clone lazyvim repo
 
 
+Hyprland:
+
+rofi themes: https://github.com/adi1090x/rofi
