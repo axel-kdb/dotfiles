@@ -10,3 +10,4 @@
 Hyprland:
 
 rofi themes: https://github.com/adi1090x/rofi
+waybar themes: https://github.com/Alexays/Waybar/wiki/Examples
