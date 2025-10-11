@@ -1,0 +1,5 @@
+2025-10-10 09:37:27.521 [info] Started local extension host with pid 43580.
+2025-10-10 09:37:27.757 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-10 09:37:31.072 [info] [perf] Render performance baseline is 38ms
+2025-10-10 10:50:32.574 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2025-10-10 10:50:37.033 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/axel/Documents/py/test.py 

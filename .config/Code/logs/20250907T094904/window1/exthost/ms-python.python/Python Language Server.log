@@ -1,0 +1,25 @@
+2025-09-07 09:49:42.286 [info] (Client) Pylance client (2025.7.1) started with python extension (2025.12.0)
+2025-09-07 09:49:42.862 [info] (57643) Server root directory: file:///home/axel/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist
+2025-09-07 09:49:42.862 [info] (57643) Pylance language server 2025.7.1 (pyright version 1.1.403, commit 8b02aa84) starting
+2025-09-07 09:49:42.875 [info] (57643) Starting Mcp server id:4355 ...
+2025-09-07 09:54:39.697 [info] (Client) Pylance client (2025.7.1) started with python extension (2025.12.0)
+2025-09-07 09:54:39.736 [info] (58765) Server root directory: file:///home/axel/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist
+2025-09-07 09:54:39.737 [info] (58765) Pylance language server 2025.7.1 (pyright version 1.1.403, commit 8b02aa84) starting
+2025-09-07 09:54:39.739 [info] (58765) Starting service instance "py" for workspace "/home/axel/Documents/py"
+2025-09-07 09:54:39.761 [info] (58765) Starting Mcp server id:5449 ...
+2025-09-07 09:54:39.784 [info] (58765) Setting environmentName for service "py": "3.13.7 (global)"
+2025-09-07 09:54:39.784 [info] (58765) Setting pythonPath for service "py": "/usr/bin/python"
+2025-09-07 09:54:39.784 [info] (58765) No include entries specified; assuming /home/axel/Documents/py
+2025-09-07 09:54:39.784 [info] (58765) Auto-excluding **/node_modules
+2025-09-07 09:54:39.784 [info] (58765) Auto-excluding **/__pycache__
+2025-09-07 09:54:39.784 [info] (58765) Auto-excluding **/.*
+2025-09-07 09:54:39.800 [info] (58765) Assuming Python version 3.13.7.final.0
+2025-09-07 09:54:39.828 [info] (58765) Found 1 source file
+2025-09-07 09:54:39.835 [info] (58765) Settings have not changed. Skipping update.
+2025-09-07 09:54:40.182 [info] (58765) BG: Priority queue background worker(2) root directory: file:///home/axel/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist
+2025-09-07 09:54:40.182 [info] (58765) BG: Priority queue background worker(2) started
+2025-09-07 09:54:40.216 [info] (58765) BG: Indexer background runner(3) root directory: file:///home/axel/.vscode/extensions/ms-python.vscode-pylance-2025.7.1/dist (index)
+2025-09-07 09:54:40.216 [info] (58765) BG: Indexing(3) started
+2025-09-07 09:54:40.380 [info] (58765) BG: scanned(3) 56 files over 1 exec env
+2025-09-07 09:54:40.700 [info] (58765) BG: indexed(3) 56 files over 1 exec env
+2025-09-07 09:54:40.707 [info] (58765) BG: Indexing finished(3).

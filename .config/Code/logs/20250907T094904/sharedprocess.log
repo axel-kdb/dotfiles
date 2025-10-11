@@ -1,0 +1,48 @@
+2025-09-07 09:49:37.214 [info] Getting Manifest... ms-python.python
+2025-09-07 09:49:37.284 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/axel/.vscode/extensions/extensions.json","path":"/home/axel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"}}
+2025-09-07 09:49:37.592 [info] Getting Manifest... ms-python.vscode-pylance
+2025-09-07 09:49:37.613 [info] Getting Manifest... ms-python.debugpy
+2025-09-07 09:49:38.151 [info] Getting Manifest... ms-python.vscode-python-envs
+2025-09-07 09:49:38.166 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/axel/.vscode/extensions/extensions.json","path":"/home/axel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-09-07 09:49:38.166 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/axel/.vscode/extensions/extensions.json","path":"/home/axel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-09-07 09:49:38.166 [info] Installing extension: ms-python.vscode-python-envs {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/axel/.vscode/extensions/extensions.json","path":"/home/axel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-09-07 09:49:39.101 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 514ms.
+2025-09-07 09:49:39.119 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 493ms.
+2025-09-07 09:49:39.177 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 312ms.
+2025-09-07 09:49:39.216 [info] Extracted extension to file:///home/axel/.vscode/extensions/ms-python.vscode-python-envs-1.2.0-linux-x64: ms-python.vscode-python-envs
+2025-09-07 09:49:39.230 [info] Renamed to /home/axel/.vscode/extensions/ms-python.vscode-python-envs-1.2.0-linux-x64
+2025-09-07 09:49:39.288 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 346ms.
+2025-09-07 09:49:39.382 [info] Extracted extension to file:///home/axel/.vscode/extensions/ms-python.debugpy-2025.10.0-linux-x64: ms-python.debugpy
+2025-09-07 09:49:39.400 [info] Renamed to /home/axel/.vscode/extensions/ms-python.debugpy-2025.10.0-linux-x64
+2025-09-07 09:49:39.620 [info] Extracted extension to file:///home/axel/.vscode/extensions/ms-python.python-2025.12.0-linux-x64: ms-python.python
+2025-09-07 09:49:39.660 [info] Renamed to /home/axel/.vscode/extensions/ms-python.python-2025.12.0-linux-x64
+2025-09-07 09:49:40.641 [info] Extracted extension to file:///home/axel/.vscode/extensions/ms-python.vscode-pylance-2025.7.1: ms-python.vscode-pylance
+2025-09-07 09:49:40.732 [info] Renamed to /home/axel/.vscode/extensions/ms-python.vscode-pylance-2025.7.1
+2025-09-07 09:49:40.742 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/axel/.vscode/extensions/extensions.json
+2025-09-07 09:49:40.742 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/axel/.vscode/extensions/extensions.json
+2025-09-07 09:49:40.742 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/axel/.vscode/extensions/extensions.json
+2025-09-07 09:49:40.742 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/axel/.vscode/extensions/extensions.json
+2025-09-07 09:50:20.186 [info] Getting Manifest... xabikos.javascriptsnippets
+2025-09-07 09:50:20.279 [info] Installing extension: xabikos.javascriptsnippets {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/axel/.vscode/extensions/extensions.json","path":"/home/axel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"}}
+2025-09-07 09:50:21.114 [info] Extension signature verification result for xabikos.javascriptsnippets: Success. Internal Code: 0. Executed: true. Duration: 541ms.
+2025-09-07 09:50:21.117 [info] Extracted extension to file:///home/axel/.vscode/extensions/xabikos.javascriptsnippets-1.8.0: xabikos.javascriptsnippets
+2025-09-07 09:50:21.127 [info] Renamed to /home/axel/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+2025-09-07 09:50:21.138 [info] Extension installed successfully: xabikos.javascriptsnippets vscode-userdata:/home/axel/.vscode/extensions/extensions.json
+2025-09-07 09:50:50.040 [info] Getting Manifest... dsznajder.es7-react-js-snippets
+2025-09-07 09:50:50.097 [info] Installing extension: dsznajder.es7-react-js-snippets {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/axel/.vscode/extensions/extensions.json","path":"/home/axel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"}}
+2025-09-07 09:50:50.756 [info] Extension signature verification result for dsznajder.es7-react-js-snippets: Success. Internal Code: 0. Executed: true. Duration: 304ms.
+2025-09-07 09:50:50.864 [info] Extracted extension to file:///home/axel/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3: dsznajder.es7-react-js-snippets
+2025-09-07 09:50:50.876 [info] Renamed to /home/axel/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3
+2025-09-07 09:50:50.886 [info] Extension installed successfully: dsznajder.es7-react-js-snippets vscode-userdata:/home/axel/.vscode/extensions/extensions.json
+2025-09-07 09:51:04.611 [info] Getting Manifest... esbenp.prettier-vscode
+2025-09-07 09:51:04.668 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/axel/.vscode/extensions/extensions.json","path":"/home/axel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"}}
+2025-09-07 09:51:05.363 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Internal Code: 0. Executed: true. Duration: 298ms.
+2025-09-07 09:51:05.397 [info] Extracted extension to file:///home/axel/.vscode/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2025-09-07 09:51:05.407 [info] Renamed to /home/axel/.vscode/extensions/esbenp.prettier-vscode-11.0.0
+2025-09-07 09:51:05.417 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/axel/.vscode/extensions/extensions.json
+2025-09-07 09:54:07.131 [info] Getting Manifest... dbaeumer.vscode-eslint
+2025-09-07 09:54:07.250 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/axel/.vscode/extensions/extensions.json","path":"/home/axel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"}}
+2025-09-07 09:54:07.974 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Internal Code: 0. Executed: true. Duration: 317ms.
+2025-09-07 09:54:07.981 [info] Extracted extension to file:///home/axel/.vscode/extensions/dbaeumer.vscode-eslint-3.0.16: dbaeumer.vscode-eslint
+2025-09-07 09:54:07.991 [info] Renamed to /home/axel/.vscode/extensions/dbaeumer.vscode-eslint-3.0.16
+2025-09-07 09:54:08.006 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/axel/.vscode/extensions/extensions.json

@@ -1,0 +1,9 @@
+2025/10/11-04:20:10.373 5 Reusing MANIFEST /home/axel/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/10/11-04:20:10.376 5 Recovering log #3
+2025/10/11-04:20:10.376 5 Reusing old log /home/axel/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
+2025/10/11-04:21:10.377 7 Level-0 table #5: started
+2025/10/11-04:21:10.386 7 Level-0 table #5: 43544 bytes OK
+2025/10/11-04:21:10.391 7 Delete type=0 #3
+2025/10/11-04:50:15.747 5 Level-0 table #7: started
+2025/10/11-04:50:15.760 5 Level-0 table #7: 21286 bytes OK
+2025/10/11-04:50:15.767 5 Delete type=0 #4

@@ -1,0 +1,17 @@
+2025-10-10 09:24:42.635 [info] Deleted marked for removal extension from disk ms-python.vscode-python-envs /home/axel/.vscode/extensions/ms-python.vscode-python-envs-1.6.0-linux-x64
+2025-10-10 09:24:42.670 [info] Deleted marked for removal extension from disk ms-python.vscode-pylance /home/axel/.vscode/extensions/ms-python.vscode-pylance-2025.7.1
+2025-10-10 09:24:46.183 [info] Getting Manifest... ms-python.debugpy
+2025-10-10 09:24:46.185 [info] Getting Manifest... ms-python.python
+2025-10-10 09:24:46.290 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.104.0","date":"2025-09-10T06:46:18.035Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/axel/.vscode/extensions/extensions.json","path":"/home/axel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-10-10 09:24:46.292 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.104.0","date":"2025-09-10T06:46:18.035Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/axel/.vscode/extensions/extensions.json","path":"/home/axel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-10-10 09:24:46.482 [info] Getting Manifest... ms-python.python
+2025-10-10 09:24:47.482 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 553ms.
+2025-10-10 09:24:47.484 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 529ms.
+2025-10-10 09:24:47.664 [info] Extracted extension to file:///home/axel/.vscode/extensions/ms-python.debugpy-2025.14.0-linux-x64: ms-python.debugpy
+2025-10-10 09:24:47.685 [info] Renamed to /home/axel/.vscode/extensions/ms-python.debugpy-2025.14.0-linux-x64
+2025-10-10 09:24:47.697 [info] Marked extension as removed ms-python.debugpy-2025.10.0-linux-x64
+2025-10-10 09:24:47.700 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/axel/.vscode/extensions/extensions.json
+2025-10-10 09:24:47.911 [info] Extracted extension to file:///home/axel/.vscode/extensions/ms-python.python-2025.16.0-linux-x64: ms-python.python
+2025-10-10 09:24:47.949 [info] Renamed to /home/axel/.vscode/extensions/ms-python.python-2025.16.0-linux-x64
+2025-10-10 09:24:47.969 [info] Marked extension as removed ms-python.python-2025.14.0-linux-x64
+2025-10-10 09:24:47.971 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/axel/.vscode/extensions/extensions.json

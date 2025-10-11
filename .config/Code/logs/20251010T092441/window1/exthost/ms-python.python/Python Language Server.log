@@ -1,0 +1,21 @@
+2025-10-10 09:24:44.068 [info] (Client) Pylance client (2025.8.3) started with python extension (2025.14.0)
+2025-10-10 09:24:44.112 [info] (12231) Server root directory: file:///home/axel/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-10 09:24:44.112 [info] (12231) Pylance language server 2025.8.3 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-10-10 09:24:44.115 [info] (12231) Starting service instance "py" for workspace "/home/axel/Documents/py"
+2025-10-10 09:24:44.153 [info] (12231) Setting environmentName for service "py": "3.13.7 (global)"
+2025-10-10 09:24:44.153 [info] (12231) Setting pythonPath for service "py": "/bin/python"
+2025-10-10 09:24:44.153 [info] (12231) No include entries specified; assuming /home/axel/Documents/py
+2025-10-10 09:24:44.154 [info] (12231) Auto-excluding **/node_modules
+2025-10-10 09:24:44.154 [info] (12231) Auto-excluding **/__pycache__
+2025-10-10 09:24:44.154 [info] (12231) Auto-excluding **/.*
+2025-10-10 09:24:44.169 [info] (12231) Assuming Python version 3.13.7.final.0
+2025-10-10 09:24:44.216 [info] (12231) Settings have not changed. Skipping update.
+2025-10-10 09:24:44.273 [info] (12231) Starting Mcp server id:5908 ...
+2025-10-10 09:24:44.519 [info] (12231) BG: Priority queue background worker(2) root directory: file:///home/axel/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-10 09:24:44.519 [info] (12231) BG: Priority queue background worker(2) started
+2025-10-10 09:24:44.592 [info] (12231) BG: Indexer background runner(3) root directory: file:///home/axel/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist (index)
+2025-10-10 09:24:44.592 [info] (12231) BG: Indexing(3) started
+2025-10-10 09:24:44.671 [info] (12231) Found 1 source file
+2025-10-10 09:24:44.786 [info] (12231) BG: scanned(3) 639 files over 1 exec env
+2025-10-10 09:24:45.311 [info] (12231) BG: indexed(3) 639 files over 1 exec env
+2025-10-10 09:24:45.354 [info] (12231) BG: Indexing finished(3).

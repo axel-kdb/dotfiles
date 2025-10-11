@@ -1,0 +1,17 @@
+2025-10-10 09:38:06.603 [info] (Client) Pylance client (2025.8.3) started with python extension (2025.16.0)
+2025-10-10 09:38:07.190 [info] (45827) Server root directory: file:///home/axel/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-10 09:38:07.190 [info] (45827) Pylance language server 2025.8.3 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-10-10 09:38:07.204 [info] (45827) Starting service instance "<default>" for workspace ""
+2025-10-10 09:38:07.228 [info] (45827) Setting environmentName for service "<default>": "3.13.7 (global)"
+2025-10-10 09:38:07.228 [info] (45827) Setting pythonPath for service "<default>": "/bin/python"
+2025-10-10 09:38:07.228 [info] (45827) No include entries specified; assuming /<default workspace root>
+2025-10-10 09:38:07.228 [info] (45827) Auto-excluding **/node_modules
+2025-10-10 09:38:07.229 [info] (45827) Auto-excluding **/__pycache__
+2025-10-10 09:38:07.229 [info] (45827) Auto-excluding **/.*
+2025-10-10 09:38:07.244 [info] (45827) Assuming Python version 3.13.7.final.0
+2025-10-10 09:38:07.281 [info] (45827) Settings have not changed. Skipping update.
+2025-10-10 09:38:07.328 [info] (45827) Starting Mcp server id:6000 ...
+2025-10-10 09:38:07.583 [info] (45827) BG: Priority queue background worker(2) root directory: file:///home/axel/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-10 09:38:07.584 [info] (45827) BG: Priority queue background worker(2) started
+2025-10-10 09:38:07.747 [error] (45827) File or directory "/<default workspace root>" does not exist.
+2025-10-10 09:38:07.747 [info] (45827) No source files found.
