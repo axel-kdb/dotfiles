@@ -17,4 +17,8 @@ waybar themes: https://github.com/Alexays/Waybar/wiki/Examples
 hyprlock themes: https://github.com/MrVivekRajan/Hyprlock-Styles
 swaync themes: https://github.com/ErikReider/SwayNotificationCenter/discussions/183
 
-setups: https://github.com/zDyant/HyprNova
+dotfile setups: 
+
+https://github.com/zDyant/HyprNova
+https://github.com/elifouts/Dotfiles
+
