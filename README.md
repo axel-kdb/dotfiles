@@ -25,3 +25,6 @@ https://github.com/elifouts/Dotfiles
 gtk:
 
 https://github.com/vinceliuice/Graphite-gtk-theme
+
+# hide gnome apps buttons
+gsettings set org.gnome.desktop.wm.preferences button-layout :
