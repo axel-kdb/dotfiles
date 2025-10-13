@@ -22,3 +22,6 @@ dotfile setups:
 https://github.com/zDyant/HyprNova
 https://github.com/elifouts/Dotfiles
 
+gtk:
+
+https://github.com/vinceliuice/Graphite-gtk-theme
