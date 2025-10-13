@@ -28,3 +28,7 @@ https://github.com/vinceliuice/Graphite-gtk-theme
 
 # hide gnome apps buttons
 gsettings set org.gnome.desktop.wm.preferences button-layout :
+
+cursor:
+
+https://github.com/ndom91/rose-pine-hyprcursor
