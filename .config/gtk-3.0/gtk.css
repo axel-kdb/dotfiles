@@ -1,0 +1,5 @@
+window.csd headerbar .titlebutton {
+    opacity: 0;
+    pointer-events: none;
+}
+
