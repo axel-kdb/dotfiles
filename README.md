@@ -34,3 +34,7 @@ Edit /etc/environment as root and add the line QT_QPA_PLATFORMTHEME=qt6ct
 cursor:
 
 https://github.com/ndom91/rose-pine-hyprcursor
+
+screen sharing:
+
+https://gist.github.com/brunoanc/2dea6ddf6974ba4e5d26c3139ffb7580
