@@ -35,6 +35,10 @@ cursor:
 
 https://github.com/ndom91/rose-pine-hyprcursor
 
+screenshots:
+
+https://www.reddit.com/r/hyprland/comments/13ivh0c/what_tool_do_you_recommend_to_take_screenshot_in/
+
 screen sharing:
 
 https://gist.github.com/brunoanc/2dea6ddf6974ba4e5d26c3139ffb7580
