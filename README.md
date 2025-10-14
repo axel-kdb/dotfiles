@@ -22,12 +22,14 @@ dotfile setups:
 https://github.com/zDyant/HyprNova
 https://github.com/elifouts/Dotfiles
 
-gtk:
+gtk/qt/gnome:
 
 https://github.com/vinceliuice/Graphite-gtk-theme
 
 # hide gnome apps buttons
 gsettings set org.gnome.desktop.wm.preferences button-layout :
+
+Edit /etc/environment as root and add the line QT_QPA_PLATFORMTHEME=qt6ct
 
 cursor:
 
