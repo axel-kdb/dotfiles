@@ -9,7 +9,7 @@
 
 Hyprland:
 
-sudo pacman -S waybar rofi swaync hyprpaper hyprlock hypridle thunar yazi btop cliphist lsd bat dunst
+sudo pacman -S waybar rofi swaync hyprpaper hyprlock hypridle thunar yazi btop cliphist lsd bat mdcat dunst
 
 yay -S wlogout
 
