@@ -1,7 +1,0 @@
-2025-10-10 09:36:31.980 [info] Starting server pylance mcp server
-2025-10-10 09:36:31.980 [info] Connection state: Starting
-2025-10-10 09:36:31.980 [info] Starting server from LocalProcess extension host
-2025-10-10 09:36:31.980 [info] Connection state: Running
-2025-10-10 09:36:32.009 [info] Discovered 12 tools
-2025-10-10 09:37:21.224 [warning] Extension host shut down, server will stop.
-2025-10-10 09:37:21.224 [info] Connection state: Stopped

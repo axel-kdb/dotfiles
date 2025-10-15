@@ -3,15 +3,15 @@
 
 /* Importing pywal colors */
 
-@import '~/.cache/wal/colors.css';
+@import '../../.cache/wal/colors-waybar.css';
 
 window {
     font-family: Fira Code Medium;
     font-size: 16pt;
-    color:  @foreground; /* text */
+    color: @foreground; /* text */
     background-color: rgba(24, 27, 32, 0.2);
 
-} 
+}
 
 button {
     background-repeat: no-repeat;
@@ -23,11 +23,19 @@ button {
     box-shadow: 0 0 10px 2px transparent;
     border-radius: 36px;
     margin: 10px;
+    border: none;
+    outline: none;
+    color: white
 }
 
 button:focus {
     box-shadow: none;
-    background-size : 20%;
+    background-size : 50%;
+    box-shadow: 0 0 10px 3px rgba(0,0,0,.4);
+    background-color: @color6;
+    color: transparent;
+    transition: all 0.3s cubic-bezier(.55, 0.0, .28, 1.682), box-shadow 0.5s ease-in;
+    text-shadow: none
 }
 
 button:hover {
@@ -36,6 +44,7 @@ button:hover {
     background-color: @color6;
     color: transparent;
     transition: all 0.3s cubic-bezier(.55, 0.0, .28, 1.682), box-shadow 0.5s ease-in;
+    text-shadow: none
 }
 
 #shutdown {
@@ -72,4 +81,11 @@ button:hover {
 }
 #hibernate:hover {
   background-image: image(url("./icons/hibernate-hover.png"));
+}
+
+#suspend {
+    background-image: image(url("./icons/sleep.png"));
+}
+#suspend:hover {
+  background-image: image(url("./icons/sleep-hover.png"));
 }

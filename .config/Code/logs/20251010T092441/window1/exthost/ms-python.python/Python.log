@@ -1,9 +1,0 @@
-2025-10-10 09:24:43.344 [info] Native locator: Refresh started
-2025-10-10 09:24:43.409 [info] Native locator: Refresh started
-2025-10-10 09:24:43.421 [info] > pyenv which python
-2025-10-10 09:24:43.421 [info] cwd: .
-2025-10-10 09:24:43.525 [info] Python interpreter path: /usr/bin/python
-2025-10-10 09:24:43.526 [info] Native locator: Refresh finished in 242 ms
-2025-10-10 09:24:44.123 [info] Starting Pylance language server.
-2025-10-10 09:27:54.435 [info] Discover tests for workspace name: undefined - uri: /home/axel/.config/Code/User/settings.json
-2025-10-10 09:27:57.087 [info] Python interpreter path: /bin/python

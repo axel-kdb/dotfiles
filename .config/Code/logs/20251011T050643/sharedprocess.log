@@ -1,9 +1,0 @@
-2025-10-11 05:06:44.461 [info] Deleted marked for removal extension from disk ms-python.debugpy /home/axel/.vscode/extensions/ms-python.debugpy-2025.10.0-linux-x64
-2025-10-11 05:06:44.462 [info] Deleted marked for removal extension from disk ms-python.python /home/axel/.vscode/extensions/ms-python.python-2025.14.0-linux-x64
-2025-10-11 05:06:48.182 [info] Getting Manifest... ms-python.vscode-python-envs
-2025-10-11 05:06:48.276 [info] Installing extension: ms-python.vscode-python-envs {"productVersion":{"version":"1.104.0","date":"2025-09-10T06:46:18.035Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/axel/.vscode/extensions/extensions.json","path":"/home/axel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
-2025-10-11 05:06:49.131 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 390ms.
-2025-10-11 05:06:49.200 [info] Extracted extension to file:///home/axel/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64: ms-python.vscode-python-envs
-2025-10-11 05:06:49.202 [info] Renamed to /home/axel/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64
-2025-10-11 05:06:49.208 [info] Marked extension as removed ms-python.vscode-python-envs-1.8.0-linux-x64
-2025-10-11 05:06:49.211 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/axel/.vscode/extensions/extensions.json

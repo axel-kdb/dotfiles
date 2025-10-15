@@ -1,6 +1,0 @@
-2025-10-10 09:38:07.841 [info] Starting server pylance mcp server
-2025-10-10 09:38:07.841 [info] Connection state: Starting
-2025-10-10 09:38:07.841 [info] Starting server from LocalProcess extension host
-2025-10-10 09:38:07.841 [info] Connection state: Running
-2025-10-10 09:38:07.846 [info] Connection state: Error Error sending message to http://localhost:6000/stream: TypeError: fetch failed
-2025-10-10 09:38:07.847 [error] Server exited before responding to `initialize` request.
