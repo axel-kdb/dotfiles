@@ -9,7 +9,8 @@
 
 Hyprland:
 
-sudo pacman -S waybar rofi swaync hyprpaper hyprlock thunar yazi btop cliphist
+sudo pacman -S waybar rofi swaync hyprpaper hyprlock hypridle thunar yazi btop cliphist lsd bat dunst
+
 yay -S wlogout
 
 rofi themes: https://github.com/adi1090x/rofi
