@@ -47,3 +47,4 @@ https://gist.github.com/brunoanc/2dea6ddf6974ba4e5d26c3139ffb7580
 misc:
 
 https://www.reddit.com/r/unixporn/comments/u0ck8x/cool_programs_you_like_to_use_in_rices/
+https://github.com/HyDE-Project/HyDE
