@@ -48,3 +48,48 @@ misc:
 
 https://www.reddit.com/r/unixporn/comments/u0ck8x/cool_programs_you_like_to_use_in_rices/
 https://github.com/HyDE-Project/HyDE
+
+
+Timeline:
+
+zsh
+default zsh
+kitty
+nerd font
+oh-my-zsh
+plevel10k
+
+hyprland apps configs
+swww
+waypaper
+pywalfox
+.xinitrc (restore colors on startup)
+
+waybar
+wofi
+swaync
+wlogout
+
+nwg-look
+qt5ct
+qt6ct
+graphite gtk theme
+rose-pine-hyprcursor
+
+grim
+slurp
+dunst
+
+newtorkmanager
+blueman
+brightnessctl
+
+cava
+tty-clock
+pipes.sh
+cowsay
+figlet
+cmatrix
+
+
+
