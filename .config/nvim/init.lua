@@ -9,6 +9,10 @@ if not vim.uv.fs_stat(lazypath) then
   vim.fn.system { "git", "clone", "--filter=blob:none", repo, "--branch=stable", lazypath }
 end
 
+-- tabs to 4 spaces
+vim.opt.tabstop = base46
+vim.opt.expandtab = true
+
 vim.opt.rtp:prepend(lazypath)
 
 local lazy_config = require "configs.lazy"
@@ -46,3 +50,4 @@ autocmd("Signal", {
     require('nvchad.utils').reload()
   end
 })
+

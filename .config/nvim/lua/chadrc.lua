@@ -101,7 +101,6 @@ vim.keymap.set("n", "<leader>pw", function()
 end, { desc = "Reload pywal theme" })
 
 
-
 return M
 
 
