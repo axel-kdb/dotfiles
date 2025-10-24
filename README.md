@@ -84,6 +84,7 @@ polkit-gnome
 newtorkmanager
 blueman
 brightnessctl
+auto-cpufreq
 
 cava
 tty-clock
