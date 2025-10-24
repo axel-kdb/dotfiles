@@ -79,6 +79,7 @@ rose-pine-hyprcursor
 grim
 slurp
 dunst
+polkit-gnome
 
 newtorkmanager
 blueman
