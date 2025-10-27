@@ -68,6 +68,7 @@ pywalfox
 waybar
 wofi
 swaync
+swaylock-effects
 wlogout
 
 nwg-look
