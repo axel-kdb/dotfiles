@@ -100,5 +100,5 @@ spicetify-dynamic-theme
 vesktop
 pywal-discord
 pywal-vencord
-
+betterdiscord
 
