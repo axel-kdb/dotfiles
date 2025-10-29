@@ -94,5 +94,11 @@ cowsay
 figlet
 cmatrix
 
+spicetify-cli
+pywal-spicetify
+spicetify-dynamic-theme
+vesktop
+pywal-discord
+pywal-vencord
 
 
