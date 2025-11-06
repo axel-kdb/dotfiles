@@ -129,3 +129,8 @@ cat ~/.cache/wal/sequences
 
 # To add support for TTYs this line can be optionally added.
 source ~/.cache/wal/colors-tty.sh
+
+export PATH=$PATH:/home/axel/.spicetify
+
+alias ls="lsd"
+alias cat="bat"
