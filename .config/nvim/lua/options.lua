@@ -12,6 +12,7 @@ opt.tabstop = 4        -- Number of visual spaces per TAB
 opt.shiftwidth = 4     -- Number of spaces to use for autoindent
 opt.expandtab = true   -- Convert tabs to spaces
 opt.smartindent = true -- Smarter autoindenting
+opt.autoindent = true
 
 -- relative line numbers
 local opt = vim.opt
