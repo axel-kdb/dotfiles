@@ -23,9 +23,11 @@ dotfile setups:
 https://github.com/zDyant/HyprNova
 https://github.com/elifouts/Dotfiles
 
-gtk/qt/gnome:
+themes:
 
 https://github.com/vinceliuice/Graphite-gtk-theme
+https://github.com/PapirusDevelopmentTeam/papirus-icon-theme?tab=readme-ov-file
+https://github.com/PapirusDevelopmentTeam/papirus-folders
 
 # hide gnome apps buttons
 gsettings set org.gnome.desktop.wm.preferences button-layout :
